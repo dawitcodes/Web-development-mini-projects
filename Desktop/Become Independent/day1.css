@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(Image/Roasted_coffee_beans.jpg);
+    font-family: sans-serif;
+    text-align: center;
+}
+h1,h2{
+    font-family:Impact,serif ;
+}
+.card-container{
+    background-color: burlywood;
+    margin: 20px;
+}
+.lines{
+    background-color: brown;
+    height: 2px;
+    border-color: brown;
+}
+.items-container-2{
+    display:flex;
+    justify-content: space-between;
+}
+
+footer{
+    font-size: 14px;
+}
